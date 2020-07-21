@@ -10,4 +10,9 @@ public class MathService {
 	public int add() {
 		return 2 + 3;
 	}
+	
+	@GetMapping("/sub")
+	public int sub() {
+		return 3 - 2;
+	}
 }
