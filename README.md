@@ -16,3 +16,10 @@ Golden Gates DevOps Program.
  3. Install JUNIT Plugin in pom.xml
  4. Write 10 Test Cases
  5. Add ScreenShots
+
+ ## 22 July 2020:
+ 1. Install Docker
+ 2. Create Dockerfile for spring boot app
+ 3. Build Dockerfile
+ 4. Deploy Docker file
+
